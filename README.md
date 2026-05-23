@@ -45,8 +45,8 @@
 ## 🎓 教育与工作
 | 时间 | 经历 | 备注 |
 |------|------|------|
-| 2023.07 - 至今 | [顺丰科技](https://www.sf-express.com/cn/) | Java 后端开发工程师 |
-| 2019.09 - 2023.07 | [山西大学（双一流）](https://www.sxu.edu.cn/) | 软件工程 本科 |
+| 2023.07 - 至今 | <a target="_blank" href="https://www.sf-express.com/cn/">顺丰科技</a> | Java 后端开发工程师 |
+| 2019.09 - 2023.07 | <a target="_blank" href="https://www.sxu.edu.cn/">山西大学（双一流）</a> | 软件工程 本科 |
 
 
 ## 🏅 荣誉奖项
