@@ -1,11 +1,13 @@
 <div align="center">
   <table style="border:none; border-collapse:collapse; width:100%; max-width:800px;">
     <tr>
+      <!-- 左边：头像（从你自己仓库读取，绝对稳定） -->
       <td style="border:none; vertical-align:middle; width:160px; padding:10px;">
-        <img src="https://github.com/user-attachments/assets/2b1f628c-37e8-4f5a-9e1f-89d5f8c36609" 
+        <img src="avatar.jpg" 
         width="160" height="160" 
         style="border-radius:50%; object-fit:cover; border:3px solid #e8e8e8;">
       </td>
+      <!-- 右边：个人信息 -->
       <td style="border:none; vertical-align:middle; padding-left:24px; text-align:left;">
         <h1>景朗朗</h1>
         <h3>Java 后端开发工程师｜顺丰科技</h3>
