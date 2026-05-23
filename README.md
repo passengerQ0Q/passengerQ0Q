@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://p5-flow-imagex-sign.byteimg.com/tos-cn-i-a9rns2rl98/6e9b0b88b5004bd18bc336b5e26f0cb9.jpg~tplv-a9rns2rl98-24:720:720.jpeg?lk3s=8e244e95&rcl=2026052316132492724F38D57A11F2D675&rrcfp=d52e923b&x-expires=1780128804&x-signature=jPccsrOJ4ywDUckEnIFiRuw2S4w%3D" width="180" height="180" style="border-radius: 50%; object-fit: cover; border: 3px solid #f0f0f0;"/>
   <h1>景朗朗 | Java 后端开发工程师</h1>
   <p>顺丰科技 | 在职 | 专注高并发、分布式、微服务架构 & 性能优化</p>
 </div>
@@ -77,20 +78,24 @@
 ---
 
 ### 🛠 技术栈标签
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![微服务](https://img.shields.io/badge/微服务-009688?style=flat&logo=spring&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![K8s](https://img.shields.io/badge/K8s-326CE5?style=flat&logo=kubernetes&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="SpringBoot"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/微服务-009688?style=flat&logo=spring&logoColor=white" alt="微服务"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/K8s-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="K8s"/>
+</p>
 
 ---
 
 ### 📊 GitHub 数据
-![景朗朗's GitHub stats](https://github-readme-stats.vercel.app/api?username=passengerQ0Q&show_icons=true&theme=graywhite&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=passengerQ0Q&layout=compact&theme=graywhite&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=passengerQ0Q&show_icons=true&theme=graywhite&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=passengerQ0Q&layout=compact&theme=graywhite&hide_border=true" width="48%"/>
+</p>
 
 ---
 
