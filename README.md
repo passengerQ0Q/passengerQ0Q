@@ -87,19 +87,28 @@
 - 基于 Redission 分布式锁 + 延迟队列实现通用超时关单组件
 - 采用本地消息表方案保证分布式事务最终一致性
 - 实现"一锁二判三更新"接口幂等设计，彻底解决重复支付问题
+#### 预览
+<div style="display: flex; gap: 10px; margin: 10px 0; flex-wrap: wrap;">
+  <img style="width: 48%; height: auto; border-radius: 8px;" alt="image" src="https://github.com/user-attachments/assets/b73e8ff9-423e-486c-9eeb-4ccbfd9528c6" />
+  <img style="width: 48%; height: auto; border-radius: 8px;" alt="帮我拿1" src="https://github.com/user-attachments/assets/78ba8ef0-7d26-4ce0-aac4-114288c96ac0" />
+</div>
 
-### 3. AI 超级智能体 | 短视频文案生成平台
-**SpringAI + DeepSeekR1 大模型应用**
-- 全流程设计与开发，支持多轮对话 + 知识库检索增强
-- 实现高赞短视频脚本自动生成，最高单条视频播放量 **100W+**
-- 负责系统架构设计、性能优化与 7×24 小时稳定性保障
-- 
 ### 4. <a href="https://github.com/passengerQ0Q/site-assistant-web" target="_blank">智能网点助手</a>
 **基于SpringBoot + AI大模型的网点智能化服务平台**
 - 独立设计并开发全栈式智能服务系统，集成智能问答、业务办理、数据统计功能
 - 采用 SpringAI + LangChain4j 构建专属知识库，实现网点业务智能答疑
 - 基于 MySQL + Redis 实现数据持久化与高频查询缓存，提升系统响应速度
 - 容器化部署，支持快速上线与横向扩容，适配多场景网点服务需求
+#### 预览
+<div style="display: flex; gap: 8px; margin: 10px 0; flex-wrap: wrap;">
+  <img style="width: 32%; height: auto; border-radius: 6px;" alt="image" src="https://github.com/user-attachments/assets/ec5bad1b-92a6-4e7c-b123-7fbccdcdb69f" />
+  <img style="width: 32%; height: auto; border-radius: 6px;" alt="image" src="https://github.com/user-attachments/assets/b19e0f28-2cc1-440a-bfb9-32a4a106d260" />
+  <img style="width: 32%; height: auto; border-radius: 6px;" alt="image" src="https://github.com/user-attachments/assets/e78bc73b-5cd0-48a0-b6e7-c55e8493b302" />
+  <img style="width: 32%; height: auto; border-radius: 6px;" alt="image" src="https://github.com/user-attachments/assets/b8b8e37a-18c5-483b-bb3f-cb8a7fb5e1d8" />
+  <img style="width: 32%; height: auto; border-radius: 6px;" alt="image" src="https://github.com/user-attachments/assets/1b95bbb5-4e3a-4ceb-9314-4c9c86772b41" />
+  <img style="width: 32%; height: auto; border-radius: 6px;" alt="image" src="https://github.com/user-attachments/assets/cdaeb970-b849-4965-ac48-11761927129a" />
+  <img style="width: 32%; height: auto; border-radius: 6px;" alt="image" src="https://github.com/user-attachments/assets/09529426-bc81-4839-ab42-c8d084a6ee6d" />
+</div>
 <br>
 
 ## 🎓 教育与工作
