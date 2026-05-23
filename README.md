@@ -1,17 +1,19 @@
 <div align="center">
-  <table style="border:none; border-collapse:collapse; width:100%;">
+  <table style="border:none; border-collapse:collapse; width:100%; max-width:800px;">
     <tr>
-      <td style="border:none; vertical-align:middle; width:180px;">
-        <img src="https://p5-flow-imagex-sign.byteimg.com/tos-cn-i-a9rns2rl98/6e9b0b88b5004bd18bc336b5e26f0cb9.jpg" width="160" height="160" style="border-radius:50%; object-fit:cover; border:3px solid #f1f1f1;">
+      <td style="border:none; vertical-align:middle; width:160px; padding:10px;">
+        <img src="https://github.com/user-attachments/assets/2b1f628c-37e8-4f5a-9e1f-89d5f8c36609" 
+        width="160" height="160" 
+        style="border-radius:50%; object-fit:cover; border:3px solid #e8e8e8;">
       </td>
-      <td style="border:none; vertical-align:middle; padding-left:20px;">
+      <td style="border:none; vertical-align:middle; padding-left:24px; text-align:left;">
         <h1>景朗朗</h1>
         <h3>Java 后端开发工程师｜顺丰科技</h3>
-        <p>专注高并发、分布式、微服务、性能优化 & 系统稳定性保障</p>
+        <p>专注高并发、分布式、微服务、系统性能优化 & 稳定性保障</p>
         <p>
-          <b>27岁｜男｜山西长治</b>&nbsp;&nbsp;&nbsp;
-          电话：15135664039<br>
-          邮箱：1152449961@qq.com
+          <b>27岁 | 男 | 山西长治</b><br>
+          📞 电话：15135664039<br>
+          📧 邮箱：1152449961@qq.com
         </p>
       </td>
     </tr>
@@ -21,9 +23,9 @@
 ---
 
 ### 🎯 个人亮点
-✅ 顺丰科技 **正式 Java 后端工程师**
+✅ 顺丰科技 **Java 后端开发工程师**
 ✅ 公司 **最高绩效 A 级 / 卓越之星**
-✅ 高并发、分布式、微服务架构实战经验
+✅ 高并发、分布式、微服务架构实战专家
 ✅ 主导线上故障排查、性能优化、容灾方案落地
 ✅ 培养新人并获得 **B+ 优秀绩效**
 
@@ -45,7 +47,7 @@
 ### 🏆 荣誉奖项
 ✅ 2023 年度 **成长之星**
 ✅ 2024 年度 **季度之星**
-✅ 2025 年度 **卓越之星（A级绩效·公司最高）**
+✅ 2025 年度 **卓越之星（A级绩效 · 公司最高）**
 ✅ 培养 25 届校招生 1 名，学员年终绩效 **B+（优秀）**
 
 ---
@@ -66,7 +68,7 @@
 
 ### 1. 智合系统（顺丰内部 100+ 系统统一权限平台）
 - 实现一致性 Hash 负载均衡，登录态接口响应 **< 10ms**
-- 百万级运单数据 **秒级导入** 优化
+- 百万级运单数据 **秒级导入** 性能优化
 - 基于 Redis + Lua 实现集群限流、高并发防护
 - 主导跨 Region 容灾方案设计与落地
 - 解决 FullGC、数据库死锁、高流量容器崩溃问题
@@ -92,7 +94,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![微服务](https://img.shields.io/badge/微服务-009688?style=flat&logo=spring&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![K8s](https://img.shields.io/badge/K8s-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
@@ -106,7 +107,7 @@
 
 ---
 
-### 📫 联系我
+### 📫 联系方式
 - GitHub：https://github.com/passengerQ0Q
 - 电话：15135664039
 - 邮箱：1152449961@qq.com
