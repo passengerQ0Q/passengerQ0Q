@@ -90,7 +90,7 @@
   <img style="width: 48%; height: auto; border-radius: 8px;" alt="帮我拿1" src="https://github.com/user-attachments/assets/78ba8ef0-7d26-4ce0-aac4-114288c96ac0" />
 </div>
 
-### 4. <a href="https://github.com/passengerQ0Q/site-assistant-web" target="_blank">智能网点助手</a>
+### 3. <a href="https://github.com/passengerQ0Q/site-assistant-web" target="_blank">智能网点助手</a>
 **基于SpringBoot + AI大模型的网点智能化服务平台**
 - 独立设计并开发全栈式智能服务系统，集成智能问答、业务办理、数据统计功能
 - 采用 SpringAI + LangChain4j 构建专属知识库，实现网点业务智能答疑
@@ -106,7 +106,20 @@
   <img style="width: 32%; height: auto; border-radius: 6px;" alt="image" src="https://github.com/user-attachments/assets/cdaeb970-b849-4965-ac48-11761927129a" />
   <img style="width: 32%; height: auto; border-radius: 6px;" alt="image" src="https://github.com/user-attachments/assets/09529426-bc81-4839-ab42-c8d084a6ee6d" />
 </div>
-<br>
+
+### 4.<a href="https://github.com/passengerQ0Q/ai-assistant-web" target="_blank">ai智能助手</a>
+- 🤖 **智能问答**: 基于 DeepSeek 大模型的智能对话功能
+- 📚 **知识库管理**: 支持文档上传和知识库管理
+- 🔐 **用户认证**: 完整的登录/登出功能
+- ⚙️ **系统设置**: 支持 API Key 配置和系统参数设置
+- 💾 **对话历史**: 自动保存和管理对话记录
+#### 预览
+<div style="display: flex; gap: 8px; margin: 10px 0; flex-wrap: wrap;">
+<img style="width: 32%; height: auto; border-radius: 6px;" alt="image" src="https://github.com/user-attachments/assets/48989569-66e3-4a34-bd72-946a79af3d53" />
+<img style="width: 32%; height: auto; border-radius: 6px;" alt="image" src="https://github.com/user-attachments/assets/88b178b0-f8c1-4715-bf0d-953fa336ea51" />
+<img style="width: 32%; height: auto; border-radius: 6px;" alt="image" src="https://github.com/user-attachments/assets/f558b611-8988-4fcc-acd4-bf13ec4f066a" />
+<img style="width: 32%; height: auto; border-radius: 6px;" alt="image" src="https://github.com/user-attachments/assets/414c1e85-f657-4382-89f7-37ca920eec8c" />
+</div>
 
 <br>
 
