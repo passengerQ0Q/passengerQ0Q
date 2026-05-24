@@ -15,7 +15,7 @@
       <td style="border: none; vertical-align: middle; text-align: left; padding: 0;">
         <p style="margin: 0 0 6px 0;">📍 山西长治 | 📧 1152449961@qq.com | 📱 15135664039</p>
         <p style="margin: 0 0 6px 0;">🎯 3年大厂后端开发经验</p>
-        <p style="margin: 0;">🏆 连续三年公司荣誉获得者</p>
+        <p style="margin: 0;">🏆 连续三年获得公司荣誉</p>
       </td>
     </tr>
   </table>
